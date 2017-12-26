@@ -1,0 +1,6 @@
+framework module BaseMediator {
+  umbrella header "BaseMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

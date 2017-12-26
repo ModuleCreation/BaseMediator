@@ -1,0 +1,22 @@
+{
+  "name": "BaseMediator",
+  "version": "0.1.0",
+  "summary": "A short description of BaseMediator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TPQuietBro/BaseMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TPQuietBro": "luoxin3116@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TPQuietBro/BaseMediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BaseMediator/Classes/**/*"
+}
