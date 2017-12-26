@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BaseMediator_Example' do
+  pod 'BaseMediator', :path => '../'
+
+  target 'BaseMediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
